@@ -15,4 +15,6 @@ Step 3) On your terminal run: npm i && node index vaccineNotifier.js
 # Api hit every 2 minute you can also changes this time by following the below steps
 
 step 1) go to vaccineNotifire.js file at line no.-27.
+\
+\
 step 2) to set the cronJob time you can visit to this url https://crontab.guru/.
